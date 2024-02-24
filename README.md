@@ -3,7 +3,7 @@
 using etherium
 
 
-use the below changes to check the tables in the css files
+//use the below changes to check the tables in the css files
 
 line 137 
   #result{
